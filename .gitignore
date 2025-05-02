@@ -1,0 +1,6 @@
+venv/*
+tf-venv/*
+lab_2_linear_models/logs/*
+lab_2_linear_models/checkpoints/*
+test/*
+lab_2_linear_models/data/*
