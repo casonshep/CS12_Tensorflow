@@ -1,5 +1,5 @@
 venv/*
-tf-venv/*
+tf-env/*
 test/*
 lab_2_linear_models/data/*
 */logs
